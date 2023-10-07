@@ -21,11 +21,20 @@
 Below is a summary of all the tasks completed for othoba.com, presented in a tabular format.
 
 | https://www.otohba.com |  
-| :-------------------------- | 
+| :-------------------------- |
+| Test Case Summary           |
 | Test Plan                   |
-| Mind Map                    |
+| Test Case (48)              |
+| Bug Report(3)               | 
 | Test Report                 | 
-| Test Case (48)              | 
-| Bug Report (3)              |
-| Test metrics                | 
+| Test metrics                |
+| Mind Map                    |
+
+
+# Test Cases
+
+Few sample test cases
+![image](https://github.com/jasin0x/TestCase_ManualTesting_Othoba.com/assets/46416678/4f4059ab-63a0-4665-a3e5-4df1672c6175)
+
+
 
