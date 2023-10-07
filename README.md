@@ -33,6 +33,10 @@ Below is a summary of all the tasks completed for othoba.com, presented in a tab
 
 # Test Case for Othoba.com
 
+### Test Plan
+
+![image](https://github.com/jasin0x/TestCase_ManualTesting_Othoba.com/assets/46416678/9381984f-7ec3-4662-b0ab-f86c43315458)
+
 ### Test Cases
 
 Few sample test cases
