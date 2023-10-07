@@ -55,7 +55,7 @@ Sample Bug report
 
 ### Mind Map
 
-Partial mind map for Othoba.com
+Partial mind map for [Othoba.com](https://www.othoba.com)
 
 ![image](https://github.com/jasin0x/TestCase_ManualTesting_Othoba.com/assets/46416678/14c3f5eb-9d78-43f9-842a-f8da56eedf42)
 
