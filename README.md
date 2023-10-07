@@ -31,10 +31,15 @@ Below is a summary of all the tasks completed for othoba.com, presented in a tab
 | Mind Map                    |
 
 
-# Test Cases
+# Test Case for Othoba.com
+
+### Test Cases
 
 Few sample test cases
+
 ![image](https://github.com/jasin0x/TestCase_ManualTesting_Othoba.com/assets/46416678/4f4059ab-63a0-4665-a3e5-4df1672c6175)
+
+
 
 
 
