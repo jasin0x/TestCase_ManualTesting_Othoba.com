@@ -22,9 +22,10 @@ Below is a summary of all the tasks completed for othoba.com, presented in a tab
 
 | https://www.otohba.com |  
 | :-------------------------- | 
-| Test Case Summary           | 
-| Test Case (78)              | 
-| Bug Report (12)             |
+| Test Plan                   |
+| Mind Map                    |
 | Test Report                 | 
+| Test Case (48)              | 
+| Bug Report (3)              |
 | Test metrics                | 
-| Mind map                    | 
+
